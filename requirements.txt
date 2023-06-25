@@ -1,0 +1,2 @@
+sounddevice==0.4.1
+numpy==1.21.2
